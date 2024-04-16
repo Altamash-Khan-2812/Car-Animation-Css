@@ -51,7 +51,7 @@ body {
   position: relative;
   top: 42px;
   left: 42px;
-  animation: wheelRotation linear 0.1s infinite;
+  animation: wheelRotation linear 0.3s infinite;
 }
 
 .wheel2 img {
@@ -59,7 +59,7 @@ body {
   position: relative;
   top: -40px;
   left: 233px;
-  animation: wheelRotation linear 0.1s infinite;
+  animation: wheelRotation linear 0.3s infinite;
 }
 
 @keyframes wheelRotation {
