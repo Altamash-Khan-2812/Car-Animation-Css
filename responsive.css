@@ -1,0 +1,32 @@
+@media (max-width: 64em) {
+  body {
+    overflow: hidden;
+  }
+
+  .car {
+    left: 150px;
+  }
+}
+
+@media (max-width: 48em) {
+  .car {
+    left: 100px;
+    width: 320px;
+  }
+
+  .wheel1 img {
+    left: 37px;
+    top: 37px;
+  }
+
+  .wheel2 img {
+    left: 214px;
+    top: -45px;
+  }
+}
+
+@media (max-width: 34em) {
+  .car {
+    left: 15px;
+  }
+}
