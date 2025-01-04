@@ -1,16 +1,16 @@
-# Car Animation CSS and JavaScript
+# Car Animation HTML and CSS
 
-This project demonstrates a simple car animation using HTML, CSS, and JavaScript.
+This project demonstrates a simple car animation using HTML and CSS.
 
 ## Preview
 
-You can see the animation live [HERE](https://lambent-sorbet-407341.netlify.app/){:target="\_blank"}.
+You can see the animation live <a href="https://lambent-sorbet-407341.netlify.app/" target="_blank">HERE</a>.
 
 ## How It Works
 
 The HTML structure consists of a container with elements representing the sky, trees, track, and a car. The car itself is composed of two wheels and their corresponding images.
 
-The CSS files (`style.css` and `responsive.css`) handle the styling and layout of the elements, while the JavaScript file (`script.js`) is responsible for animating the car.
+The CSS files (`style.css` and `responsive.css`) handle the styling and layout and animation of the elements.
 
 ## Files
 
