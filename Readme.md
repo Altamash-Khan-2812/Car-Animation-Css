@@ -4,7 +4,7 @@ This project demonstrates a simple car animation using HTML, CSS, and JavaScript
 
 ## Preview
 
-You can see the animation live [HERE](https://car-animation-ayan.netlify.app/).
+You can see the animation live [HERE](https://lambent-sorbet-407341.netlify.app/){:target="\_blank"}.
 
 ## How It Works
 
@@ -17,7 +17,6 @@ The CSS files (`style.css` and `responsive.css`) handle the styling and layout o
 - `index.html`: Contains the HTML structure of the animation.
 - `style.css`: Defines the styles for the animation.
 - `responsive.css`: Contains styles for responsive design.
-- `script.js`: Manages the animation of the car.
 
 ## Usage
 
